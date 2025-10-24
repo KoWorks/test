@@ -1,0 +1,8 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#chart svg {
+  background-color: #f9f9f9;
+}
